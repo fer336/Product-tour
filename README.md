@@ -30,7 +30,7 @@ Esta skill ayuda a:
 
 ## Demo visual
 
-![Demo de Product Tour](docs/showcase.gif)
+![Demo de Product Tour](docs/showcase1.gif)
 
 
 ## Contenido del repositorio
