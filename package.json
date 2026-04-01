@@ -1,0 +1,24 @@
+{
+  "name": "product-tour-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Repositorio de documentación y referencias para implementar product tours, onboarding guiado y demos con Driver.js, CSS custom o Remotion.",
+  "keywords": [
+    "product-tour",
+    "onboarding",
+    "driverjs",
+    "remotion",
+    "skill"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fer336/Product-tour.git"
+  },
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "node --eval \"console.log('No hay tests automatizados configurados en este repositorio.');\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
