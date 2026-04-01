@@ -91,3 +91,36 @@ Si tu agente usa otra ubicación, copiá o mové la carpeta `Product-tour` al di
 ## Nota
 
 Este repo funciona como **skill reusable + documentación de apoyo**. No es una librería de runtime lista para importar, sino una base clara para implementar tours guiados interactivos en productos web.
+
+# Apoyo y Donaciones
+
+![Apoyo](https://img.shields.io/badge/Apoyo-Activo-2ea44f?style=for-the-badge)
+![Donaciones](https://img.shields.io/badge/Donaciones-Habilitadas-0a7ea4?style=for-the-badge)
+![Mantenimiento](https://img.shields.io/badge/Mantenimiento-Continuo-f59e0b?style=for-the-badge)
+
+Gracias por apoyar **[NOMBRE_DEL_PROYECTO]**. Tu aporte permite sostener el mantenimiento, mejorar la calidad del código y dedicar tiempo a nuevas funcionalidades.
+
+## Donar con QR
+
+Escaneá el siguiente código QR para realizar una donación:
+
+<img src="[URL_RAW_QR]" alt="QR de donación" width="260" />
+
+## Donar con PayPal
+
+Podés donar directamente a través de PayPal usando este correo:
+
+`[CORREO_PAYPAL]`
+
+- [Donar por PayPal (correo)](mailto:[CORREO_PAYPAL])
+
+## Cómo ayudar sin donar
+
+- Dejá una estrella al repositorio para aumentar su visibilidad.
+- Reportá errores o mejoras desde la sección de issues.
+- Enviá pull requests con correcciones o nuevas ideas.
+- Difundí el proyecto en redes, comunidades o entre colegas.
+
+## Transparencia
+
+Las donaciones se destinan a cubrir infraestructura, tiempo de mantenimiento y mejoras continuas del proyecto.
