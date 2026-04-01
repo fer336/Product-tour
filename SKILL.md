@@ -5,7 +5,6 @@ description: >
   Un Product Tour es una guía interactiva que oscurece la pantalla y resalta elementos uno por uno con tooltips explicativos (técnica llamada spotlight/highlight overlay).
   Usar este skill siempre que el usuario mencione: "tour guiado", "onboarding", "tutorial interactivo", "guía paso a paso", "spotlight", "destacar elementos", "driver.js", "shepherd.js", "intro.js",
   o cuando quiera que su app enseñe al usuario cómo usarla la primera vez que entra.
-  También aplica cuando el usuario quiere hacer una demo animada de su sistema como video con Remotion.
 ---
 
 # Product Tour Skill
@@ -24,7 +23,7 @@ Un **Product Tour** (también llamado Onboarding Tour, Guided Walkthrough o Inte
 
 Antes de escribir código, preguntar:
 - ¿Qué framework usa el sistema? (React, Vue, HTML vanilla, etc.)
-- ¿Tiene que ser interactivo (librería JS) o un video/demo animada (Remotion)?
+- ¿Qué elementos de la interfaz hay que destacar en cada paso?
 - ¿Cuántos pasos tiene el tour?
 - ¿Tiene que persistir si el usuario ya lo vio? (localStorage o backend)
 
@@ -38,7 +37,6 @@ Consultar `references/libraries.md` para comparación detallada.
 | App React moderna | **Driver.js** (más simple) o **Shepherd.js** (más customizable) |
 | HTML vanilla / cualquier stack | **Driver.js** |
 | Vue / Angular | **Shepherd.js** o **Intro.js** |
-| Demo como video | **Remotion** |
 | Necesita máximo control visual | Implementación custom con CSS |
 
 ### Paso 3 — Implementar
@@ -47,7 +45,6 @@ Consultar el archivo de referencia correspondiente en `references/`:
 - `references/driverjs.md` — Guía completa Driver.js
 - `references/shepherdjs.md` — Guía completa Shepherd.js
 - `references/custom-css.md` — Implementación custom sin librerías
-- `references/remotion.md` — Demo animada con Remotion
 
 ### Paso 4 — Persistencia (opcional)
 
