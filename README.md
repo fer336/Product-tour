@@ -32,7 +32,6 @@ Esta skill ayuda a:
 
 ![Demo de Product Tour](docs/showcase.gif)
 
-> Si querés reemplazar este recurso, poné acá el GIF final de la demo de onboarding interactivo.
 
 ## Contenido del repositorio
 
