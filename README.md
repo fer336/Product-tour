@@ -98,21 +98,21 @@ Este repo funciona como **skill reusable + documentación de apoyo**. No es una 
 ![Donaciones](https://img.shields.io/badge/Donaciones-Habilitadas-0a7ea4?style=for-the-badge)
 ![Mantenimiento](https://img.shields.io/badge/Mantenimiento-Continuo-f59e0b?style=for-the-badge)
 
-Gracias por apoyar **[NOMBRE_DEL_PROYECTO]**. Tu aporte permite sostener el mantenimiento, mejorar la calidad del código y dedicar tiempo a nuevas funcionalidades.
+Gracias por apoyar este proyecto. Tu aporte permite sostener el mantenimiento, mejorar la calidad del código y dedicar tiempo a nuevas funcionalidades.
 
 ## Donar con QR
 
 Escaneá el siguiente código QR para realizar una donación:
 
-<img src="[URL_RAW_QR]" alt="QR de donación" width="260" />
+<img src="https://raw.githubusercontent.com/fer336/donation-assets/main/assets/qr-donation.jpg" alt="QR de donación" width="260" />
 
 ## Donar con PayPal
 
 Podés donar directamente a través de PayPal usando este correo:
 
-`[CORREO_PAYPAL]`
+`casserafernando@gmail.com`
 
-- [Donar por PayPal (correo)](mailto:[CORREO_PAYPAL])
+- [Donar por PayPal (correo)](mailto:casserafernando@gmail.com)
 
 ## Cómo ayudar sin donar
 
@@ -124,3 +124,7 @@ Podés donar directamente a través de PayPal usando este correo:
 ## Transparencia
 
 Las donaciones se destinan a cubrir infraestructura, tiempo de mantenimiento y mejoras continuas del proyecto.
+
+## Contacto y soporte
+
+Si necesitás ayuda o querés colaborar, abrí un issue en este repositorio o contactame por correo.
